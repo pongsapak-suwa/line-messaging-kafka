@@ -22,13 +22,13 @@ This project is a demonstration of building a Line Messaging API using Kafka as 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kafka-line-messaging-api.git
+   git clone https://github.com/pongsapak-suwa/line-messaging-kafka
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd kafka-line-messaging-api
+   cd line-messaging-kafka
    ```
 
 3. Set up your Line Messaging API credentials:
